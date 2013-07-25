@@ -1,4 +1,4 @@
 CamelAndActiveMQ
 ================
 
-Apache Camel and ApacheActiveMQ communication
+Apache Camel and ApacheActiveMQ integration short example
